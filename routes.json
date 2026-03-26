@@ -28169,6 +28169,51 @@
       },
       "itemID": "HYPERION",
       "sneak": false
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": 5.5,
+        "y": 92.0,
+        "z": -11.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "localTarget": {
+        "x": 10.294771046600005,
+        "y": 93.0,
+        "z": -10.53319978510001
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": 24.5,
+        "y": 66.0,
+        "z": 3.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "localTarget": {
+        "x": 23.387349555300005,
+        "y": 66.0,
+        "z": 3.487106385399997
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": 25.5,
+        "y": 66.0,
+        "z": 3.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "localTarget": {
+        "x": 23.35686647609998,
+        "y": 66.0,
+        "z": 3.4976088378000014
+      }
     }
   ],
   "Sloth": [
