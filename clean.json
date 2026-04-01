@@ -12671,6 +12671,134 @@
       }
     }
   ],
+  "Staircase": [
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": 2.5,
+        "y": 73.0,
+        "z": -4.5
+      },
+      "radius": 0.5,
+      "start": true,
+      "localTarget": {
+        "x": 4.0,
+        "y": 73.56355237620001,
+        "z": -7.582225837199999
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": 4.5,
+        "y": 74.0,
+        "z": -7.5
+      },
+      "radius": 0.5,
+      "start": true,
+      "localTarget": {
+        "x": 5.4768222318,
+        "y": 73.0,
+        "z": -10.588593941699997
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": 5.5,
+        "y": 73.0,
+        "z": -10.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "awaits": {
+        "awaitSecrets": 1
+      },
+      "localTarget": {
+        "x": -3.4746677671000015,
+        "y": 77.12922792020001,
+        "z": 7.0
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": -3.5,
+        "y": 78.0,
+        "z": 7.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "localTarget": {
+        "x": -3.4375067028000004,
+        "y": 78.0,
+        "z": 11.480171392300008
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": -3.5,
+        "y": 78.0,
+        "z": 11.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "awaits": {
+        "awaitSecrets": 1
+      },
+      "localTarget": {
+        "x": -4.368177251600002,
+        "y": 78.0,
+        "z": 7.798366834600003
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": -4.5,
+        "y": 78.0,
+        "z": 7.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "localTarget": {
+        "x": 8.402044795599998,
+        "y": 65.0,
+        "z": -7.368107572599996
+      }
+    },
+    {
+      "type": "boom",
+      "localPos": {
+        "x": 8.5,
+        "y": 65.0,
+        "z": -7.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "target": {
+        "x": 9.047320940703058,
+        "y": 66.44822386740991,
+        "z": -8.000669854151631
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": 8.5,
+        "y": 65.0,
+        "z": -7.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "localTarget": {
+        "x": 11.1410622762,
+        "y": 65.0,
+        "z": -11.236953338
+      }
+    }
+  ],
   "Quiz": [
     {
       "type": "etherwarp",
