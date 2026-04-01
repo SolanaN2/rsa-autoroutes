@@ -930,6 +930,83 @@
       }
     }
   ],
+  "Sarcophagus": [
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": 0.5,
+        "y": 69.0,
+        "z": -5.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "awaits": {
+        "awaitSecrets": 1
+      },
+      "localTarget": {
+        "x": 9.340513505899992,
+        "y": 70.7916018393,
+        "z": 5.0
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": 9.5,
+        "y": 71.0,
+        "z": 5.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "localTarget": {
+        "x": 9.4091425103,
+        "y": 70.0,
+        "z": 10.6840184749
+      }
+    },
+    {
+      "type": "bat",
+      "localPos": {
+        "x": 9.5,
+        "y": 70.0,
+        "z": 10.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "yaw": 0.0,
+      "pitch": 90.0
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": 9.5,
+        "y": 70.0,
+        "z": 10.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "localTarget": {
+        "x": 4.0,
+        "y": 68.810215066,
+        "z": 11.779486173500004
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": 2.5,
+        "y": 69.0,
+        "z": -2.5
+      },
+      "radius": 0.5,
+      "start": true,
+      "localTarget": {
+        "x": 0.5769230267000012,
+        "y": 69.0,
+        "z": -5.524929799799992
+      }
+    }
+  ],
   "Hallway": [
     {
       "type": "etherwarp",
