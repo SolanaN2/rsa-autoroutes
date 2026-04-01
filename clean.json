@@ -767,6 +767,158 @@
       }
     }
   ],
+  "Granite": [
+    {
+      "type": "break",
+      "localPos": {
+        "x": 2.5,
+        "y": 71.0,
+        "z": 8.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "blocks": [
+        {
+          "x": 2.0,
+          "y": 70.0,
+          "z": 9.0
+        },
+        {
+          "x": 2.0,
+          "y": 69.0,
+          "z": 9.0
+        },
+        {
+          "x": 2.0,
+          "y": 68.0,
+          "z": 9.0
+        }
+      ]
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": 2.5,
+        "y": 71.0,
+        "z": 8.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "localTarget": {
+        "x": 2.2415503304000026,
+        "y": 68.0,
+        "z": 9.979025521599993
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": 2.5,
+        "y": 68.0,
+        "z": 9.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "localTarget": {
+        "x": 2.461007769600002,
+        "y": 62.0,
+        "z": 11.949540883999987
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": 2.5,
+        "y": 62.0,
+        "z": 11.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "localTarget": {
+        "x": 0.6867998888999978,
+        "y": 62.0,
+        "z": 9.364791184500007
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": 0.5,
+        "y": 62.0,
+        "z": 9.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "awaits": {
+        "awaitSecrets": 1
+      },
+      "localTarget": {
+        "x": -0.5685903814000142,
+        "y": 61.0,
+        "z": 13.285813618100008
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": -0.5,
+        "y": 61.0,
+        "z": 13.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "localTarget": {
+        "x": 3.6134547901000076,
+        "y": 62.0,
+        "z": 11.295531726399986
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": 3.5,
+        "y": 62.0,
+        "z": 11.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "localTarget": {
+        "x": 2.262717281899995,
+        "y": 61.0,
+        "z": 10.481430699300006
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": 2.5,
+        "y": 61.0,
+        "z": 10.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "localTarget": {
+        "x": 1.8867060878000075,
+        "y": 74.0,
+        "z": 10.647100048699997
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": -0.5,
+        "y": 70.0,
+        "z": 6.5
+      },
+      "radius": 0.5,
+      "start": true,
+      "localTarget": {
+        "x": 2.4234343054999954,
+        "y": 70.7693254464,
+        "z": 8.0
+      }
+    }
+  ],
   "Quiz": [
     {
       "type": "etherwarp",
@@ -2501,6 +2653,164 @@
         "x": 12.0,
         "y": 70.3553234126,
         "z": 18.504477196399996
+      }
+    }
+  ],
+  "Mossy": [
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": 46.5,
+        "y": 71.0,
+        "z": 13.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "awaits": {
+        "awaitSecrets": 1
+      },
+      "localTarget": {
+        "x": 52.0,
+        "y": 81.05299268040001,
+        "z": -0.27730839119999473
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": 46.5,
+        "y": 71.0,
+        "z": 8.5
+      },
+      "radius": 0.5,
+      "start": true,
+      "localTarget": {
+        "x": 46.5236337444,
+        "y": 71.0,
+        "z": 13.197604879400018
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": 52.5,
+        "y": 82.0,
+        "z": -0.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "localTarget": {
+        "x": 48.31523060539999,
+        "y": 93.0,
+        "z": -1.494024864899984
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": 33.5,
+        "y": 89.0,
+        "z": -6.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "awaits": {
+        "awaitSecrets": 1
+      },
+      "localTarget": {
+        "x": 32.780207450000006,
+        "y": 89.0,
+        "z": -4.468743128400007
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": 32.5,
+        "y": 89.0,
+        "z": -4.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "localTarget": {
+        "x": 16.503046925099994,
+        "y": 69.0,
+        "z": -4.461555463400003
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": 16.5,
+        "y": 69.0,
+        "z": -4.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "localTarget": {
+        "x": -8.896437236300017,
+        "y": 69.0,
+        "z": -7.242060230699991
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": 48.5,
+        "y": 94.0,
+        "z": -1.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "awaits": {
+        "awaitSecrets": 1
+      },
+      "localTarget": {
+        "x": 59.3901048332,
+        "y": 89.0,
+        "z": -5.514876329799989
+      }
+    },
+    {
+      "type": "bat",
+      "localPos": {
+        "x": 59.5,
+        "y": 89.0,
+        "z": -5.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "yaw": 0.0,
+      "pitch": 90.0
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": 59.5,
+        "y": 89.0,
+        "z": -5.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "localTarget": {
+        "x": 46.0,
+        "y": 88.6831391111,
+        "z": -2.522477828599989
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": 45.5,
+        "y": 89.0,
+        "z": -2.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "localTarget": {
+        "x": 33.74108844029999,
+        "y": 89.0,
+        "z": -6.597649183899989
       }
     }
   ],
