@@ -3658,6 +3658,591 @@
       }
     }
   ],
+  "Layers": [
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": 9.5,
+        "y": 69.0,
+        "z": 4.5
+      },
+      "radius": 0.5,
+      "start": true,
+      "localTarget": {
+        "x": 10.381639611899999,
+        "y": 70.0,
+        "z": 13.823815134500009
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": 10.5,
+        "y": 70.0,
+        "z": 13.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "awaits": {
+        "awaitSecrets": 1
+      },
+      "localTarget": {
+        "x": 8.367413711300003,
+        "y": 69.0,
+        "z": 2.4792007978000044
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": 8.5,
+        "y": 69.0,
+        "z": 2.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "localTarget": {
+        "x": 0.16595055160000527,
+        "y": 69.65249589300001,
+        "z": 9.0
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": 0.5,
+        "y": 70.0,
+        "z": 9.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "awaits": {
+        "awaitSecrets": 1
+      },
+      "localTarget": {
+        "x": -1.133595579599998,
+        "y": 69.0,
+        "z": -8.272162958899997
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": -1.5,
+        "y": 69.0,
+        "z": -8.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "localTarget": {
+        "x": -4.0,
+        "y": 69.89086044380001,
+        "z": -8.427910895599993
+      }
+    },
+    {
+      "type": "break",
+      "localPos": {
+        "x": -4.5,
+        "y": 70.0,
+        "z": -8.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "blocks": [
+        {
+          "x": -7.0,
+          "y": 71.0,
+          "z": -9.0
+        },
+        {
+          "x": -7.0,
+          "y": 70.0,
+          "z": -9.0
+        },
+        {
+          "x": -6.0,
+          "y": 70.0,
+          "z": -9.0
+        }
+      ]
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": -4.5,
+        "y": 70.0,
+        "z": -8.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "localTarget": {
+        "x": -6.384425911899996,
+        "y": 71.0,
+        "z": -8.160874639
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": -11.5,
+        "y": 70.0,
+        "z": -7.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "localTarget": {
+        "x": -9.4848350038,
+        "y": 70.0,
+        "z": -13.437097606999998
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": -9.5,
+        "y": 70.0,
+        "z": -13.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "awaits": {
+        "awaitSecrets": 2
+      },
+      "localTarget": {
+        "x": -10.585355403599998,
+        "y": 70.67041232070001,
+        "z": 28.0
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": -10.5,
+        "y": 71.0,
+        "z": 28.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "localTarget": {
+        "x": -1.0,
+        "y": 80.5455931717,
+        "z": 27.827049393400003
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": -0.5,
+        "y": 81.0,
+        "z": 27.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "localTarget": {
+        "x": 16.0,
+        "y": 89.7752502528,
+        "z": 25.6778106103
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": 16.5,
+        "y": 90.0,
+        "z": 25.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "localTarget": {
+        "x": -5.0,
+        "y": 89.446178118,
+        "z": 17.95054524310001
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": -5.5,
+        "y": 90.0,
+        "z": 17.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "awaits": {
+        "awaitSecrets": 1
+      },
+      "localTarget": {
+        "x": -7.782621582799997,
+        "y": 95.0896983394,
+        "z": 41.0
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": -7.5,
+        "y": 96.0,
+        "z": 41.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "awaits": {
+        "awaitSecrets": 1
+      },
+      "localTarget": {
+        "x": -7.5298368031999985,
+        "y": 92.0,
+        "z": 44.3592523703
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": -7.5,
+        "y": 92.0,
+        "z": 44.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "localTarget": {
+        "x": -1.763401115199997,
+        "y": 89.0,
+        "z": 21.4022092669
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": -1.5,
+        "y": 89.0,
+        "z": 21.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "localTarget": {
+        "x": 16.0,
+        "y": 89.2291616975,
+        "z": 27.542094018400007
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": 16.5,
+        "y": 90.0,
+        "z": 27.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "localTarget": {
+        "x": -8.0,
+        "y": 77.85374939420001,
+        "z": 34.46700814120001
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": -8.5,
+        "y": 78.0,
+        "z": 34.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "localTarget": {
+        "x": 4.0,
+        "y": 80.5713698837,
+        "z": 33.44155778000001
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": 4.5,
+        "y": 81.0,
+        "z": 33.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "localTarget": {
+        "x": 31.524623910800003,
+        "y": 78.0,
+        "z": 28.836878905900008
+      }
+    },
+    {
+      "type": "boom",
+      "localPos": {
+        "x": 31.5,
+        "y": 78.0,
+        "z": 28.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "target": {
+        "x": 31.687349038802893,
+        "y": 79.41059774654462,
+        "z": 27.999089638652265
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": 31.5,
+        "y": 78.0,
+        "z": 28.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "localTarget": {
+        "x": 32.3199479706,
+        "y": 78.4687902437,
+        "z": 20.0
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": 32.5,
+        "y": 79.0,
+        "z": 19.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "awaits": {
+        "awaitSecrets": 1
+      },
+      "localTarget": {
+        "x": 35.0974381214,
+        "y": 78.0,
+        "z": 34.791871791000005
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": 35.5,
+        "y": 78.0,
+        "z": 34.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "localTarget": {
+        "x": 39.0895162046,
+        "y": 78.0,
+        "z": 36.36141455740001
+      }
+    },
+    {
+      "type": "break",
+      "localPos": {
+        "x": 39.5,
+        "y": 78.0,
+        "z": 36.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "blocks": [
+        {
+          "x": 39.0,
+          "y": 78.0,
+          "z": 37.0
+        },
+        {
+          "x": 39.0,
+          "y": 77.0,
+          "z": 37.0
+        },
+        {
+          "x": 39.0,
+          "y": 76.0,
+          "z": 37.0
+        }
+      ]
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": 39.5,
+        "y": 78.0,
+        "z": 36.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "awaits": {
+        "awaitSecrets": 1
+      },
+      "localTarget": {
+        "x": 39.4622966715,
+        "y": 69.0,
+        "z": 41.76639292300001
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": 39.5,
+        "y": 69.0,
+        "z": 41.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "localTarget": {
+        "x": 33.44720089810001,
+        "y": 69.5937180898,
+        "z": 36.0
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": 33.5,
+        "y": 70.0,
+        "z": 35.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "awaits": {
+        "awaitSecrets": 1
+      },
+      "localTarget": {
+        "x": 22.0,
+        "y": 71.3712121236,
+        "z": 41.3317400791
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": 21.5,
+        "y": 72.0,
+        "z": 41.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "localTarget": {
+        "x": 19.489525090200004,
+        "y": 69.0,
+        "z": 42.978997545100015
+      }
+    },
+    {
+      "type": "break",
+      "localPos": {
+        "x": 19.5,
+        "y": 69.0,
+        "z": 42.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "blocks": [
+        {
+          "x": 21.0,
+          "y": 67.0,
+          "z": 42.0
+        },
+        {
+          "x": 21.0,
+          "y": 66.0,
+          "z": 42.0
+        }
+      ]
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": 19.5,
+        "y": 69.0,
+        "z": 42.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "localTarget": {
+        "x": 21.334865596100002,
+        "y": 66.0,
+        "z": 42.3784566114
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": 21.5,
+        "y": 66.0,
+        "z": 42.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "localTarget": {
+        "x": 18.599491036800003,
+        "y": 59.0,
+        "z": 41.40629518189999
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": 18.5,
+        "y": 59.0,
+        "z": 41.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "localTarget": {
+        "x": 20.719323405500006,
+        "y": 59.0,
+        "z": 36.742855293000005
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": 20.5,
+        "y": 59.0,
+        "z": 36.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "awaits": {
+        "awaitSecrets": 1
+      },
+      "localTarget": {
+        "x": 19.271152159799996,
+        "y": 59.0,
+        "z": 41.3526595415
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": 19.5,
+        "y": 59.0,
+        "z": 41.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "localTarget": {
+        "x": 21.0,
+        "y": 70.2623170298,
+        "z": 42.9214711564
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": 21.5,
+        "y": 71.0,
+        "z": 42.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "localTarget": {
+        "x": 31.5452370867,
+        "y": 69.0,
+        "z": 39.0823292093
+      }
+    }
+  ],
   "Red Green": [
     {
       "type": "boom",
