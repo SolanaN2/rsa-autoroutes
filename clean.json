@@ -3242,6 +3242,71 @@
       }
     }
   ],
+  "Big Red Flag": [
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": 11.5,
+        "y": 77.0,
+        "z": 1.5
+      },
+      "radius": 0.5,
+      "start": true,
+      "localTarget": {
+        "x": 13.590720497799992,
+        "y": 77.0,
+        "z": 5.27232052730001
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": 13.5,
+        "y": 77.0,
+        "z": 5.5
+      },
+      "radius": 0.5,
+      "start": true,
+      "localTarget": {
+        "x": 10.4678155947,
+        "y": 76.55047432730001,
+        "z": 9.0
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": 10.5,
+        "y": 77.0,
+        "z": 9.5
+      },
+      "radius": 0.5,
+      "start": true,
+      "localTarget": {
+        "x": 10.293331302799999,
+        "y": 75.0,
+        "z": 11.533356668599993
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": 10.5,
+        "y": 75.0,
+        "z": 11.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "awaits": {
+        "awaitSecrets": 1
+      },
+      "localTarget": {
+        "x": 6.795711937999997,
+        "y": 75.0,
+        "z": 8.8132610678
+      }
+    }
+  ],
   "Crypt": [
     {
       "type": "etherwarp",
