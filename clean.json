@@ -1625,6 +1625,41 @@
       }
     }
   ],
+  "Tombstone": [
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": 2.5,
+        "y": 71.0,
+        "z": 11.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "awaits": {
+        "awaitSecrets": 1
+      },
+      "localTarget": {
+        "x": -1.8374882699999944,
+        "y": 75.5376248097,
+        "z": -4.0
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": 0.5,
+        "y": 72.0,
+        "z": 5.5
+      },
+      "radius": 0.5,
+      "start": true,
+      "localTarget": {
+        "x": 2.8782853571999993,
+        "y": 71.0,
+        "z": 11.4056490384
+      }
+    }
+  ],
   "Archway": [
     {
       "type": "boom",
