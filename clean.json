@@ -18,24 +18,6 @@
   ],
   "Water": [
     {
-      "type": "etherwarp",
-      "localPos": {
-        "x": -1.5,
-        "y": 70.0,
-        "z": -5.5
-      },
-      "radius": 0.5,
-      "start": false,
-      "awaits": {
-        "awaitSecrets": 1
-      },
-      "localTarget": {
-        "x": -12.0,
-        "y": 68.72652201460001,
-        "z": -5.527093596300006
-      }
-    },
-    {
       "type": "bat",
       "localPos": {
         "x": -1.5,
@@ -46,6 +28,36 @@
       "start": true,
       "yaw": 0.0,
       "pitch": 90.0
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": -1.5,
+        "y": 70.0,
+        "z": -7.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "localTarget": {
+        "x": -10.246484963200004,
+        "y": 68.0,
+        "z": -3.6802070218000154
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": -10.5,
+        "y": 68.0,
+        "z": -3.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "localTarget": {
+        "x": -12.0,
+        "y": 68.92808554220001,
+        "z": -5.57280716530002
+      }
     }
   ],
   "Prison Cell": [
@@ -2584,24 +2596,6 @@
       "type": "etherwarp",
       "localPos": {
         "x": 63.5,
-        "y": 50.0,
-        "z": -6.5
-      },
-      "radius": 0.5,
-      "start": false,
-      "awaits": {
-        "awaitSecrets": 2
-      },
-      "localTarget": {
-        "x": 38.0,
-        "y": 70.115781829,
-        "z": -9.76887005799999
-      }
-    },
-    {
-      "type": "etherwarp",
-      "localPos": {
-        "x": 63.5,
         "y": 61.0,
         "z": -6.5
       },
@@ -2626,6 +2620,24 @@
         "x": 75.4803329363,
         "y": 49.0,
         "z": 6.56343587100001
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": 63.5,
+        "y": 50.0,
+        "z": -6.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "awaits": {
+        "awaitSecrets": 2
+      },
+      "localTarget": {
+        "x": 41.696712207800005,
+        "y": 82.0,
+        "z": -9.5004940217
       }
     }
   ],
@@ -3379,6 +3391,92 @@
         "x": 12.762096330999995,
         "y": 141.0,
         "z": 38.54097301599998
+      }
+    }
+  ],
+  "Redstone Crypt": [
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": -6.5,
+        "y": 69.0,
+        "z": -7.5
+      },
+      "radius": 0.5,
+      "start": true,
+      "localTarget": {
+        "x": -7.4823121011999945,
+        "y": 69.0,
+        "z": -7.4639785739
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": -7.5,
+        "y": 69.0,
+        "z": -7.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "awaits": {
+        "awaitSecrets": 2
+      },
+      "localTarget": {
+        "x": 5.315269885399999,
+        "y": 69.0,
+        "z": 0.3531887078000011
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": 5.5,
+        "y": 69.0,
+        "z": 0.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "awaits": {
+        "awaitSecrets": 1
+      },
+      "localTarget": {
+        "x": 9.106437899500008,
+        "y": 69.0,
+        "z": 0.32991623520000246
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": 9.5,
+        "y": 69.0,
+        "z": 0.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "awaits": {
+        "awaitSecrets": 1
+      },
+      "localTarget": {
+        "x": 4.56542256260002,
+        "y": 69.0,
+        "z": -3.7144852340999996
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": 4.5,
+        "y": 69.0,
+        "z": -3.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "localTarget": {
+        "x": 9.0,
+        "y": 73.3250173931,
+        "z": -7.530593207700001
       }
     }
   ],
@@ -7058,24 +7156,6 @@
     {
       "type": "etherwarp",
       "localPos": {
-        "x": -10.699999999999989,
-        "y": 82.0,
-        "z": -12.300000000000011
-      },
-      "radius": 0.5,
-      "start": false,
-      "awaits": {
-        "awaitSecrets": 1
-      },
-      "localTarget": {
-        "x": -10.0,
-        "y": 84.5828899983,
-        "z": -12.266633598400006
-      }
-    },
-    {
-      "type": "etherwarp",
-      "localPos": {
         "x": -9.5,
         "y": 85.0,
         "z": -12.5
@@ -7116,6 +7196,24 @@
         "x": 4.887449963099996,
         "y": 66.0,
         "z": 1.7433912778000007
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": -10.5,
+        "y": 82.0,
+        "z": -12.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "awaits": {
+        "awaitSecrets": 1
+      },
+      "localTarget": {
+        "x": -10.0,
+        "y": 84.1523028783,
+        "z": -12.328714497199996
       }
     }
   ],
@@ -12921,12 +13019,12 @@
       "radius": 0.5,
       "start": false,
       "awaits": {
-        "awaitSecrets": 3
+        "awaitSecrets": 2
       },
       "localTarget": {
-        "x": 30.5065050356,
+        "x": 30.4136943494,
         "y": 58.0,
-        "z": 8.177860925999994
+        "z": 8.246709768800002
       }
     }
   ],
