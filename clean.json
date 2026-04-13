@@ -16,6 +16,38 @@
       }
     }
   ],
+  "Water": [
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": -1.5,
+        "y": 70.0,
+        "z": -5.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "awaits": {
+        "awaitSecrets": 1
+      },
+      "localTarget": {
+        "x": -12.0,
+        "y": 68.72652201460001,
+        "z": -5.527093596300006
+      }
+    },
+    {
+      "type": "bat",
+      "localPos": {
+        "x": -1.5,
+        "y": 70.0,
+        "z": -7.5
+      },
+      "radius": 0.5,
+      "start": true,
+      "yaw": 0.0,
+      "pitch": 90.0
+    }
+  ],
   "Prison Cell": [
     {
       "type": "use",
@@ -5735,6 +5767,156 @@
         "y": 80.1758025214,
         "z": -4.0
       }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": -1.5,
+        "y": 67.0,
+        "z": 18.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "localTarget": {
+        "x": -1.5574397580000152,
+        "y": 67.0,
+        "z": 19.504181765699997
+      }
+    }
+  ],
+  "Quad Lava": [
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": -8.5,
+        "y": 70.0,
+        "z": 9.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "awaits": {
+        "awaitSecrets": 1
+      },
+      "localTarget": {
+        "x": -5.0,
+        "y": 69.8512964212,
+        "z": 3.7013793797000005
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": -7.5,
+        "y": 70.0,
+        "z": 2.5
+      },
+      "radius": 0.5,
+      "start": true,
+      "localTarget": {
+        "x": -8.345905058100001,
+        "y": 69.74678657770001,
+        "z": 9.0
+      }
+    },
+    {
+      "type": "break",
+      "localPos": {
+        "x": 5.5,
+        "y": 68.0,
+        "z": -5.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "blocks": [
+        {
+          "x": 5.0,
+          "y": 68.0,
+          "z": -5.0
+        },
+        {
+          "x": 5.0,
+          "y": 67.0,
+          "z": -5.0
+        }
+      ]
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": 5.5,
+        "y": 68.0,
+        "z": -5.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "localTarget": {
+        "x": 5.194873762099995,
+        "y": 60.0,
+        "z": -2.219949156700011
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": 5.5,
+        "y": 60.0,
+        "z": -2.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "awaits": {
+        "awaitSecrets": 1
+      },
+      "localTarget": {
+        "x": 9.326811099399997,
+        "y": 67.0,
+        "z": -4.520676736799999
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": 9.5,
+        "y": 68.0,
+        "z": -4.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "localTarget": {
+        "x": 3.0,
+        "y": 68.9356903785,
+        "z": -8.587656653900012
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": -4.5,
+        "y": 70.0,
+        "z": 3.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "localTarget": {
+        "x": 11.111188837099995,
+        "y": 70.7070777585,
+        "z": -13.0
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": 11.5,
+        "y": 71.0,
+        "z": -13.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "localTarget": {
+        "x": 5.702545148299997,
+        "y": 68.0,
+        "z": -5.539299637800013
+      }
     }
   ],
   "Ice Fill": [
@@ -7206,23 +7388,6 @@
         "y": 67.0,
         "z": -5.6157673206
       }
-    },
-    {
-      "type": "use",
-      "localPos": {
-        "x": -7.5,
-        "y": 67.0,
-        "z": -5.5
-      },
-      "radius": 0.5,
-      "start": false,
-      "rotationVec": {
-        "x": 0.567143976688385,
-        "y": -0.8236117959022522,
-        "z": 0.003371243132278323
-      },
-      "itemID": "TERMINATOR",
-      "sneak": false
     }
   ],
   "Layers": [
@@ -10232,21 +10397,6 @@
     {
       "type": "etherwarp",
       "localPos": {
-        "x": -1.5,
-        "y": 82.0,
-        "z": 4.5
-      },
-      "radius": 0.5,
-      "start": false,
-      "localTarget": {
-        "x": 0.4098849790999992,
-        "y": 81.8544648733,
-        "z": -4.0
-      }
-    },
-    {
-      "type": "etherwarp",
-      "localPos": {
         "x": 11.5,
         "y": 73.0,
         "z": -10.5
@@ -10347,6 +10497,24 @@
         "x": 7.456280237599998,
         "y": 88.0,
         "z": 9.890186570800012
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": -1.5,
+        "y": 82.0,
+        "z": 4.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "awaits": {
+        "awaitSecrets": 1
+      },
+      "localTarget": {
+        "x": 0.3999617946000029,
+        "y": 81.7363005573,
+        "z": -4.0
       }
     }
   ],
@@ -12753,12 +12921,12 @@
       "radius": 0.5,
       "start": false,
       "awaits": {
-        "awaitSecrets": 2
+        "awaitSecrets": 3
       },
       "localTarget": {
-        "x": 30.430552251399995,
+        "x": 30.5065050356,
         "y": 58.0,
-        "z": 8.487346034000012
+        "z": 8.177860925999994
       }
     }
   ],
@@ -22289,24 +22457,9 @@
     {
       "type": "etherwarp",
       "localPos": {
-        "x": 6.5,
+        "x": 10.5,
         "y": 69.0,
-        "z": 11.5
-      },
-      "radius": 0.5,
-      "start": true,
-      "localTarget": {
-        "x": 9.0,
-        "y": 70.2993059928,
-        "z": 12.283528260600008
-      }
-    },
-    {
-      "type": "etherwarp",
-      "localPos": {
-        "x": 9.5,
-        "y": 70.5,
-        "z": 12.5
+        "z": 13.5
       },
       "radius": 0.5,
       "start": false,
@@ -22314,10 +22467,42 @@
         "awaitSecrets": 1
       },
       "localTarget": {
-        "x": -0.5587713072999918,
+        "x": 2.6345070958000036,
         "y": 69.0,
-        "z": 9.260499493200001
+        "z": 9.49288790579999
       }
+    },
+    {
+      "type": "boom",
+      "localPos": {
+        "x": 9.5,
+        "y": 69.0,
+        "z": 13.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "target": {
+        "x": 10.690610387670063,
+        "y": 68.99920876380332,
+        "z": 13.521690582547137
+      }
+    },
+    {
+      "type": "use",
+      "localPos": {
+        "x": 9.5,
+        "y": 69.0,
+        "z": 13.5
+      },
+      "radius": 0.5,
+      "start": true,
+      "rotationVec": {
+        "x": 0.591975748538971,
+        "y": -0.8058836460113525,
+        "z": 0.010784635320305824
+      },
+      "itemID": "HYPERION",
+      "sneak": false
     }
   ],
   "Dino Site": [
@@ -25302,6 +25487,21 @@
         "x": -1.4765119833,
         "y": 83.0,
         "z": 25.71851897750001
+      }
+    },
+    {
+      "type": "etherwarp",
+      "localPos": {
+        "x": 3.5,
+        "y": 30.0,
+        "z": 27.5
+      },
+      "radius": 0.5,
+      "start": false,
+      "localTarget": {
+        "x": 3.454898970800002,
+        "y": 29.0,
+        "z": 26.571595360900005
       }
     }
   ],
